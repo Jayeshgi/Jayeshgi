@@ -1,117 +1,71 @@
-<h1 align="center">🚀 Your Project Name</h1>
+<h1 align="center">Hi 👋, I'm Jayesh</h1>
+
+<h3 align="center">🚀 AI & Data Science Student | Future Cybersecurity Specialist</h3>
 
 <p align="center">
-  <b>One-line powerful description of your project</b><br>
-  <i>Make it sound impactful and clear</i>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 <hr>
 
-<h2>📌 About the Project</h2>
+<h2>🧠 About Me</h2>
+
 <p>
-This project is designed to <b>solve real-world problems</b> using modern technologies.
-It focuses on <b>efficiency, scalability, and user experience</b>.
+🎓 BTech Student in Artificial Intelligence & Data Science <br>
+🔐 Passionate about Cybersecurity & Ethical Hacking <br>
+🤖 Building AI-powered systems and real-world projects <br>
+📈 Currently learning: Advanced AI, Security Tools, System Design <br>
 </p>
 
+<hr>
+
+<h2>🚀 Skills & Technologies</h2>
+
+<p>
+<b>Languages:</b> Python, JavaScript <br><br>
+
+<b>AI / ML:</b> PyTorch, TensorFlow, Scikit-learn <br><br>
+
+<b>Web:</b> HTML, CSS, FastAPI, Flask <br><br>
+
+<b>Database:</b> MySQL, SQLite <br><br>
+
+<b>Tools:</b> Git, Docker, Linux
+</p>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%">
+</p>
+
+<hr>
+
+<h2>🔥 Top Projects</h2>
+
 <ul>
-  <li>⚡ Fast and optimized performance</li>
-  <li>🧠 Smart logic / AI integration (if applicable)</li>
-  <li>🎯 Easy to use and understand</li>
+  <li>🛡️ <b>AI Cybersecurity System</b> – Detects attacks, blocks IPs, tracks threats</li>
+  <li>📚 <b>Study Sync</b> – Student collaboration & note-sharing platform</li>
+  <li>🧬 <b>AR Ear Anatomy Project</b> – Interactive learning using AR</li>
 </ul>
 
 <hr>
 
-<h2>✨ Features</h2>
-<ul>
-  <li>🚀 Feature 1 – Explain briefly</li>
-  <li>🔒 Feature 2 – Security or logic</li>
-  <li>📊 Feature 3 – Data / analytics</li>
-  <li>🤖 Feature 4 – AI/ML (if any)</li>
-</ul>
+<h2>🌐 Connect With Me</h2>
 
-<hr>
-
-<h2>🛠️ Tech Stack</h2>
 <p>
-<b>Frontend:</b> HTML, CSS, JavaScript <br>
-<b>Backend:</b> Python / Flask / Django <br>
-<b>Database:</b> MySQL / SQLite <br>
-<b>Tools:</b> Git, Docker, etc.
+<a href="https://linkedin.com/in/your-link">LinkedIn</a> |
+<a href="https://github.com/your-username">GitHub</a> |
+<a href="mailto:your-email@gmail.com">Email</a>
 </p>
 
 <hr>
 
-<h2>📸 Preview</h2>
-<p align="center">
-  <img src="your-image-link-here" width="80%">
-</p>
-
-<hr>
-
-<h2>⚙️ Installation</h2>
-
-<pre>
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-
-# Navigate into the folder
-cd your-repo-name
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python app.py
-</pre>
-
-<hr>
-
-<h2>🚀 Usage</h2>
-<p>
-After running the project, open your browser and go to:
-</p>
-
-<pre>http://localhost:5000</pre>
-
-<hr>
-
-<h2>📂 Project Structure</h2>
-
-<pre>
-├── app.py
-├── templates/
-├── static/
-├── database/
-└── README.md
-</pre>
-
-<hr>
-
-<h2>🤝 Contributing</h2>
-<p>
-Contributions are welcome! Follow these steps:
-</p>
-
-<ol>
-  <li>Fork the repo</li>
-  <li>Create a new branch</li>
-  <li>Commit your changes</li>
-  <li>Push and create a Pull Request</li>
-</ol>
-
-<hr>
-
-<h2>📜 License</h2>
-<p>
-This project is licensed under the MIT License.
-</p>
-
-<hr>
-
-<h2 align="center">💡 Made with ❤️ by Your Name</h2>
+<h2 align="center">⚡ "Code. Learn. Build. Repeat."</h2>
