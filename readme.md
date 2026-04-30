@@ -61,9 +61,8 @@
 <h2>🌐 Connect With Me</h2>
 
 <p>
-<a href="https://linkedin.com/in/your-link">LinkedIn</a> |
-<a href="https://github.com/your-username">GitHub</a> |
-<a href="mailto:your-email@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/jayesh-sonar-54b94b31a/">LinkedIn</a> |
+<a href="https://mail.google.com/mail/u/0/#inbox">Email</a>
 </p>
 
 <hr>
