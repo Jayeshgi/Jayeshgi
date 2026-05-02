@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI & Data Science Student | Future Cybersecurity Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Learner;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -46,17 +46,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayeshgi&theme=tokyonight" width="48%">
 </p>
 
-<hr>
-
-<h2>🔥 Top Projects</h2>
-
-<ul>
-  <li>🛡️ <b>AI Cybersecurity System</b> – Detects attacks, blocks IPs, tracks threats</li>
-  <li>📚 <b>Study Sync</b> – Student collaboration & note-sharing platform</li>
-  <li>🧬 <b>AR Ear Anatomy Project</b> – Interactive learning using AR</li>
-</ul>
-
-<hr>
 
 <h2>🌐 Connect With Me</h2>
 
