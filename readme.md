@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
 
-<h3 align="center">🚀 AI & Data Science Student | Future Cybersecurity Specialist</h3>
+<h3 align="center">🚀 AI & Data Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Python+Learner;Full+Stack+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
@@ -26,15 +26,15 @@
 <h2>🚀 Skills & Technologies</h2>
 
 <p>
-<b>Languages:</b> Python, JavaScript <br><br>
+<b>Languages:</b> Python, Java <br><br>
 
 <b>AI / ML:</b> PyTorch, TensorFlow, Scikit-learn <br><br>
 
-<b>Web:</b> HTML, CSS, FastAPI, Flask <br><br>
+<b>Web:</b> HTML, CSS, JS, ReactJS, FastAPI, Flask <br><br>
 
-<b>Database:</b> MySQL, SQLite <br><br>
+<b>Database:</b> MySQL, MongoDB <br><br>
 
-<b>Tools:</b> Git, Docker, Linux
+<b>Tools:</b> Git, Docker
 </p>
 
 <hr>
