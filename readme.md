@@ -6,11 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F28C52&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Node.js+%26+NestJS+%F0%9F%9A%80;Building+Scalable+APIs+%26+Backend+Systems+%E2%9A%99%EF%B8%8F;React+%7C+TypeScript+%7C+Fullstack+Development+%F0%9F%92%BB;Docker+%7C+CI%2FCD+%7C+Cloud+Deployments+%F0%9F%93%A6;Building+SaaS+and+Production-Ready+Projects+%F0%9F%94%A5;Always+Learning+and+Creating+Something+New+%F0%9F%93%9A)](https://github.com/jkdevcode)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jkdevcode&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/jkdevcode)
+[![Profile Views](https://komarev.com/ghpvc/?username=jayeshgi&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/jayeshgi)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/jkdevcode?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/jkdevcode?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/jayeshgi?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/jayeshgi?tab=followers)
 &nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/jkdevcode?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/jkdevcode)
+[![GitHub User's stars](https://img.shields.io/github/stars/jayeshgi?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/jayeshgi)
 
 </div>
 
@@ -50,15 +50,15 @@ I use AI as a development tool to accelerate workflows while keeping full contro
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    src="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 </picture>
 
