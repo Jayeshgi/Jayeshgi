@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Jayesh%20Sonar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Data %20Science%20%7C%20Full%20Stack%20Developer%20%7C%20Java&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Jayesh%20Sonar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20%7C%20Full%20Stack%20Developer%20%7C%20Java&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Jayesh+Sonar;AI+%26+Data+Science+Student;Java+Developer;Building+Awesome+SaaS+Projects;Learning+MERN+Stack;Always+Learning+Something+New🚀"/>
 
