@@ -1,71 +1,164 @@
-![DenjiHead](https://raw.githubusercontent.com/jkdevcode/github-profile-assets/main/imgs/denji_friends.jpg)
-
 <div align="center">
 
-# 👋🏻 Hi, I'm Jayesh
+# Hi 👋, I'm Jayesh Sonar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F28C52&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+Node.js+%26+NestJS+%F0%9F%9A%80;Building+Scalable+APIs+%26+Backend+Systems+%E2%9A%99%EF%B8%8F;React+%7C+TypeScript+%7C+Fullstack+Development+%F0%9F%92%BB;Docker+%7C+CI%2FCD+%7C+Cloud+Deployments+%F0%9F%93%A6;Building+SaaS+and+Production-Ready+Projects+%F0%9F%94%A5;Always+Learning+and+Creating+Something+New+%F0%9F%93%9A)](https://github.com/jkdevcode)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jayeshgi&color=F28C52&style=flat-square&label=Profile+Views)](https://github.com/jayeshgi)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/jayeshgi?label=Followers&style=flat-square&color=F28C52&labelColor=1E293B)](https://github.com/jayeshgi?tab=followers)
-&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/jayeshgi?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Total+Stars&color=F28C52&labelColor=1E293B)](https://github.com/jayeshgi)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-Backend Developer focused on building scalable APIs and server-side applications using Node.js and NestJS.
+# 🚀 About Me
 
-I enjoy transforming ideas into real-world software, designing maintainable architectures, and creating solutions that solve practical problems.
+🎓 B.Tech in Artificial Intelligence & Data Science
 
-I use AI as a development tool to accelerate workflows while keeping full control over implementation, architecture, and decision-making.
+💻 Passionate about Full Stack Development
 
----
+🧠 Currently learning MERN Stack
 
-## ⚙️ Stack
+⚡ Love solving DSA problems in Java
 
-- **Backend:** Node.js, NestJS, Express
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, Docker, GitHub Actions, CI/CD, Nginx
-- **Frontend (secondary):** React, TypeScript, TailwindCSS
+🚀 Building SaaS Products
 
----
+🌱 Exploring Cloud, DevOps & System Design
 
-## 🎯 Current Focus
-
-- Building production-ready backend applications
-- Learning software architecture and system design
-- Exploring SaaS product development
-- Improving DevOps and cloud deployment skills
-- Writing clean, maintainable, and scalable code
+🎯 Goal: Become a Software Engineer at a top tech company.
 
 ---
 
-## 👾 Contribution Graph
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Pac-Man / Snake Eating Contributions
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(alive){
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+
+---
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://github.com/jayeshgi/github-pacman/raw/output/pacman-contribution-graph.svg"
-  />
-</picture>
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories!
 
 </div>
-
----
-
-## 📌 Projects
-
-Check my pinned repositories to explore backend systems, automation tools, and fullstack applications.
