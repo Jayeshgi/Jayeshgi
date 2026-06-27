@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jayeshgi&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:6a11cb,100:2575fc"/>
 ---
 
 # 👨‍💻 About Me
@@ -182,3 +182,4 @@ Dream       : Software Engineer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer"/>
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:6a11cb,100:2575fc"/>
