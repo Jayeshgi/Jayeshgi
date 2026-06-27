@@ -91,40 +91,6 @@ Dream       : Software Engineer
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayeshgi&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-
-
-# 🚀 Current Goals
-
-- ✅ Master Java
-- ✅ Master MERN Stack
-- ✅ 500+ LeetCode Problems
-- ✅ Build SaaS Products
-- ✅ Open Source Contributions
-- ✅ Learn Docker
-- ✅ Crack Product Based Companies
-
----
-
-# 💻 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 SaaS Appointment System | Appointment Booking Platform |
-| 🤖 AI Healthcare | AI Prescription Generator |
-| 🌊 Ocean Hazard App | Smart India Hackathon Project |
-| 📚 Study Sync | Student Collaboration Platform |
-
----
 
 # 🌐 Connect
 
