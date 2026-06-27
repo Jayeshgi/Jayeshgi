@@ -1,54 +1,37 @@
 <div align="center">
 
-# Hi 👋, I'm Jayesh Sonar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Jayesh%20Sonar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20Developer%20%7C%20Java&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Developer;Java+%7C+Python+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Jayesh+Sonar;AI+%26+Data+Science+Student;Java+Developer;Building+Awesome+SaaS+Projects;Learning+MERN+Stack;Always+Learning+Something+New🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Jayeshgi&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+```bash
+> whoami
 
-💻 Passionate about Full Stack Development
-
-🧠 Currently learning MERN Stack
-
-⚡ Love solving DSA problems in Java
-
-🚀 Building SaaS Products
-
-🌱 Exploring Cloud, DevOps & System Design
-
-🎯 Goal: Become a Software Engineer at a top tech company.
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+Name        : Jayesh Sonar
+Education   : B.Tech AI & Data Science
+Location    : India 🇮🇳
+Languages   : Java, Python, JavaScript
+Frontend    : React
+Backend     : Node.js, Express
+Database    : MongoDB, MySQL
+Interest    : AI, SaaS, Web Development
+Current     : MERN Stack + DSA
+Dream       : Software Engineer
+```
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
@@ -68,8 +51,6 @@
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -78,7 +59,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker"/>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
 
 </p>
 
@@ -88,19 +69,19 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayeshgi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Jayeshgi&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshgi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -108,7 +89,11 @@
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayeshgi&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -116,23 +101,56 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jayeshgi&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🐍 Pac-Man / Snake Eating Contributions
+# 🚀 Current Goals
+
+- ✅ Master Java
+- ✅ Master MERN Stack
+- ✅ 500+ LeetCode Problems
+- ✅ Build SaaS Products
+- ✅ Open Source Contributions
+- ✅ Learn Docker
+- ✅ Crack Product Based Companies
+
+---
+
+# 💻 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 SaaS Appointment System | Appointment Booking Platform |
+| 🤖 AI Healthcare | AI Prescription Generator |
+| 🌊 Ocean Hazard App | Smart India Hackathon Project |
+| 📚 Study Sync | Student Collaboration Platform |
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://github.com/Jayeshgi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </p>
 
 ---
 
-# ✨ Random Dev Quote
+# ☕ Random Dev Quote
 
 <p align="center">
 
@@ -142,23 +160,20 @@
 
 ---
 
-# ⚡ Fun Fact
+# 🐍 Contribution Snake
 
-```text
-while(alive){
-    eat();
-    code();
-    sleep();
-    repeat();
-}
-```
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Jayeshgi/Jayeshgi/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-If you like my work, don't forget to ⭐ my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer"/>
 
 </div>
